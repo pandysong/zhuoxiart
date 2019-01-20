@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 熹熹的涂鸦</title>
-    <link>https://pandysong.github.io/zhuoxiart/categories/</link>
+    <link>http://zhuoxi.art/categories/</link>
     <description>Recent content in Categories on 熹熹的涂鸦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pandysong.github.io/zhuoxiart/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://zhuoxi.art/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
