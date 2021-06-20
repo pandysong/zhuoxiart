@@ -1,6 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://zhuoxi.art/portfolio/art_2021-06-20-01/</loc>
+    <lastmod>2021-06-20T12:40:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhuoxi.art/portfolio/art_2021-06-18-01/</loc>
+    <lastmod>2021-06-18T12:40:59+08:00</lastmod>
+  </url>
   
   <url>
     <loc>https://zhuoxi.art/portfolio/art-2019-01-26-02/</loc>
@@ -572,6 +582,16 @@
   </url>
   
   <url>
+    <loc>https://zhuoxi.art/portfolio/</loc>
+    <lastmod>2021-06-20T12:40:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhuoxi.art/</loc>
+    <lastmod>2021-06-20T12:40:59+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zhuoxi.art/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
@@ -583,24 +603,10 @@
   
   <url>
     <loc>https://zhuoxi.art/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhuoxi.art/portfolio/</loc>
-    <lastmod>2019-01-26T11:31:59+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zhuoxi.art/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhuoxi.art/</loc>
-    <lastmod>2019-01-26T11:31:59+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
